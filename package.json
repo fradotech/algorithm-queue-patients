@@ -1,0 +1,8 @@
+{
+  "name": "algorithm-queue-patients",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fradotech/algorithm-queue-patients.git",
+  "author": "fradotech <fradotech.id@gmail.com>",
+  "license": "MIT"
+}

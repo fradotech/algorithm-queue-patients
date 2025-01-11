@@ -1,0 +1,15 @@
+{
+  "description": "You can input more doctors here",
+  "data": [
+    {
+      "id": 1,
+      "name": "Doctor A",
+      "consultationTime": 3
+    },
+    {
+      "id": 2,
+      "name": "Doctor B",
+      "consultationTime": 4
+    }
+  ]
+}

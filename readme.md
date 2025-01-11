@@ -7,7 +7,7 @@
 
 #### Quick RUn
 
-- start program and take result
+- Start program
 - npm
 
 ```
@@ -19,8 +19,9 @@ npm start
 ```
 yarn start
 ```
+- Then you will see the result
 
 #### Input Data
 
-- You can input Doctors data in `/database/doctors.json
-- You can input Patients data in `/database/patients.json
+- You can input Doctors data in `/database/doctors.json`
+- You can input Patients data in `/database/patients.json`
